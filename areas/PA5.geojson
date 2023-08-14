@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PA5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -56.95291261298086, -8.898922024539111 ], [ -56.702062980127131, -8.898922024539111 ], [ -56.702670434400225, -8.993927284245709 ], [ -56.952848226524786, -8.993956433700323 ], [ -56.95291261298086, -8.898922024539111 ] ] ] ] } }
+]
+}

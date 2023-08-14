@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AM5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.11854508241602, -7.572626099437056 ], [ -69.867695449562291, -7.572626099437056 ], [ -69.868302903835385, -7.667631359143654 ], [ -70.118480695959946, -7.667660508598269 ], [ -70.11854508241602, -7.572626099437056 ] ] ] ] } }
+]
+}

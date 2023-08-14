@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AM3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -66.415201033203857, -3.727764259688314 ], [ -66.164351400350128, -3.727764259688314 ], [ -66.164958854623222, -3.822769519394912 ], [ -66.415136646747783, -3.822798668849526 ], [ -66.415201033203857, -3.727764259688314 ] ] ] ] } }
+]
+}

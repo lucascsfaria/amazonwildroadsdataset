@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "PA7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -52.66821778148757, -4.552606024913979 ], [ -52.662362817731676, -4.555365612386495 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -52.630609043951772, -4.562000117318964 ], [ -52.635248644555702, -4.567269216697881 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -52.574104303124734, -4.609295625462138 ], [ -52.568818437987623, -4.611256989643774 ] ] ] } }
+]
+}
