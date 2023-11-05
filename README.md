@@ -40,16 +40,30 @@ The table below presents some information from the dataset. For more details you
 </table>
 
 
-To view the acquired areas in our dataset, you can go [here](https://app.wildpixels.dcc.ufmg.br/). 
+To view the acquired areas in our dataset, you can go [here](https://app.wildpixels.dcc.ufmg.br/). The figure below shows all acquired areas.
+
+![Map of Areas](figures/map_with_areas.png)
+
+This is an example of an area of our dataset with its mask.
+
+![Map of Areas](image_png/TO1.png)
+
+![Map of Areas](mask/TO1.png)
+
+
 
 ## How the dataset is organized
 
 In total, we have five folders that contain files from each region. Below are descriptions of the folder contents:
 
 `areas` &rarr; Folder with geojson files that contain the coordinates of areas in a polygon
+
 `geojson_line`  &rarr; Folder with geojson files that contain manual annotations of roads in the areas
+
 `image_geotif` &rarr; Folder with Satellite Sentinel 2 geotiff files obtained from Google Earth Engine for each area
+
 `image_png` &rarr; Folder with files in PNG format of images converted from the `image_geotif` folder
+
 `image_png` &rarr; Folder with masks in PNG format of the annotations contained in the `geojson_line` folder
 
 ## Citation for our paper
